@@ -1,4 +1,6 @@
-package org.sudoku.validator;
+package org.sudoku;
+
+import org.sudoku.validator.SudokuValidator;
 
 import java.io.File;
 import java.io.FileNotFoundException;

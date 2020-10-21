@@ -1,7 +1,5 @@
 package org.sudoku;
 
-import org.sudoku.validator.SudokuService;
-
 import java.io.FileNotFoundException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
